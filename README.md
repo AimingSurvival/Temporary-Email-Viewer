@@ -47,7 +47,7 @@ Most temporary email tools **generate** a random address for you. This project i
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/custom-temp-email-viewer.git
+git clone https://github.com/AimingSurvival/custom-temp-email-viewer.git
 cd custom-temp-email-viewer
 
 # 2. Install dependencies
@@ -104,4 +104,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-<p align="center">Built with ☕ by <a href="https://github.com/yourusername">Your Name</a></p>
+<p align="center">Built with ☕ by <a href="https://github.com/AimingSurvival">AimingSurvival</a></p>
